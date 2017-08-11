@@ -12,5 +12,9 @@ class DatabaseSeeder extends Seeder
     public function run()
     {
          $this->call(default_categories::class);
+
+        $this->call(userTableSeeder::class);
+
+        $this->call(defaultDataSeeder::class);
     }
 }

@@ -33,3 +33,7 @@ Route::post('/formSubmit/', 'formSubmitController@submit');
 
 Route::post('/stepper_form/', 'formSubmitController@submit');
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');
