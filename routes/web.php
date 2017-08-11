@@ -12,14 +12,14 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('SurveyAfrica');
 });
 
-Route::get('/form/', function () {
-    return view('the_form');
-});
+//Route::get('/form/', function () {
+//    return view('the_form');
+//});
 
-Route::get('/formStepper/', function () {
+Route::get('/sampleForm/', function () {
     return view('stepper_form');
 });
 

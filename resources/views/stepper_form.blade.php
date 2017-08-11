@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Materialize Stepper</title>
+    <title>Survey Africa</title>
     <meta name="description" content="A good, simple and easy to use stepper for Materializecss Framework.">
 
 
@@ -46,7 +46,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
-<body>
+<body bgcolor="#18a689">
 <!--Import jQuery before materialize.js-->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
@@ -59,7 +59,7 @@
 
                 <div class="section scrollspy" id="horizontal-stepper">
                     <div class="row">
-                        <div class="col s12"><h5>Horizontal Stepper</h5></div>
+                        <div class="col s12"><h5 style="color: white;">YATC 2017 Survey</h5></div>
 
                         <div class="col s12">
                             <div class="card">
