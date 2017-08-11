@@ -7,8 +7,8 @@
     <meta name="description" content="A good, simple and easy to use stepper for Materializecss Framework.">
 
 
-    <link rel="stylesheet" href="/the_form_res/css/bootstrap.css">
-    <link rel="stylesheet" href="/the_form_res/css/materialize.css">
+    {{--<link rel="stylesheet" href="/the_form_res/css/bootstrap.css">--}}
+    {{--<link rel="stylesheet" href="/the_form_res/css/materialize.css">--}}
 
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://kinark.github.io/Materialize-stepper/images/faviconapple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://kinark.github.io/Materialize-stepper/images/faviconapple-touch-icon-114x114.png" />
