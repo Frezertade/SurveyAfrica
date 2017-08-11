@@ -37,7 +37,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--Import materialize.css-->
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css"  media="screen,projection"/>
-    <!-- <link type="text/css" rel="stylesheet" href="./materialize-stepper.min.css"  media="screen,projection"/> -->
+     {{--<link type="text/css" rel="stylesheet" href="./materialize-stepper.min.css"  media="screen,projection"/>--}}
     <link type="text/css" rel="stylesheet" href="style.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="prism.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="https://rawgit.com/Kinark/Materialize-stepper/master/materialize-stepper.min.css"  media="screen,projection"/>

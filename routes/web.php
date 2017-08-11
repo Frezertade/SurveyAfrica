@@ -23,7 +23,13 @@ Route::get('/sampleForm/', function () {
     return view('stepper_form');
 });
 
+Route::get('/thankyou/', function () {
+    return view('thank');
+});
+
+
 Route::post('/formSubmit/', 'formSubmitController@submit');
 
 
 Route::post('/stepper_form/', 'formSubmitController@submit');
+
